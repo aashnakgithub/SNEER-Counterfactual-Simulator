@@ -1,0 +1,6 @@
+{
+  "name": "Singapore S$NEER Monetary Policy Simulator",
+  "description": "An empirical macroeconomics tool to simulate and counterfactually compare Singapore's exchange-rate targeted S$NEER framework against a domestic interest rate regime (Taylor Rule) over historical shock scenarios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
