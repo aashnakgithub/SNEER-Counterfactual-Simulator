@@ -18,8 +18,7 @@ The app demonstrates why a small, ultra-open economy uses exchange rate pass-thr
    npm install
    ```
 2. Create a `.env` file from `.env.example` if needed.
-3. Add your `GEMINI_API_KEY` if required by the app.
-4. Start the development server:
+3. Start the development server:
    ```bash
    npm run dev
    ```
@@ -34,5 +33,6 @@ Once the action runs, the simulator will be available at:
 
 ## Notes
 
-* The project is public and ready for assessors to access.
-* If the app requires the Gemini API key during build, add a repository secret named `GEMINI_API_KEY` in GitHub Settings > Secrets > Actions.
+* The project is for educational purposes.
+* **-Aashna Khanna**
+* May 2026
