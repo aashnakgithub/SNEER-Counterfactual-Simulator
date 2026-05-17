@@ -6,10 +6,10 @@ The app demonstrates why a small, ultra-open economy uses exchange rate pass-thr
 
 ## Key Features
 
-* **S$NEER Transmission Engine** — Quantifies real-world exchange rate transmission dynamics.
-* **Counterfactual Policy Simulation** — Compares MAS-style exchange-rate targeting to hypothetical interest-rate regimes.
-* **Historical Scenarios** — Includes shock episodes from the 2020 global recession, 2022 supply disruptions, and later macroeconomic stress.
-* **Modern Vite + React UI** — Built with React, Tailwind, Chart.js, and Vite for fast interactive simulation.
+* **S$NEER Transmission Engine** - Quantifies real-world exchange rate transmission dynamics.
+* **Counterfactual Policy Simulation** - Compares MAS-style exchange-rate targeting to hypothetical interest-rate regimes.
+* **Historical Scenarios** - Includes shock episodes from the 2020 global recession, 2022 supply disruptions, and later macroeconomic stress.
+* **Modern Vite + React UI** - Built with React, Tailwind, Chart.js, and Vite for fast interactive simulation.
 
 ## Run Locally
 
