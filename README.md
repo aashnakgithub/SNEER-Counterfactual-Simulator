@@ -35,4 +35,4 @@ Once the action runs, the simulator will be available at:
 ## Notes
 
 * The project is public and ready for assessors to access.
-* If the app requires the Gemini API key during build, add it as a repository secret and adjust the build step accordingly.
+* If the app requires the Gemini API key during build, add a repository secret named `GEMINI_API_KEY` in GitHub Settings > Secrets > Actions.
